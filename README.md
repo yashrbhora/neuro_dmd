@@ -23,4 +23,4 @@ Being able to model complex physical systems can provide insight into the underl
 I used PyDMD extensively in the project as well as their useful tutorials:
 https://github.com/mathLab/PyDMD
 
-*This was done as part of an individual final project for PHYS4606*
+*This was done as part of an individual final project for PHYS4606: Mathematical & Computational Methods for Physics*
